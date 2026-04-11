@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Football Event</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>S.B Jain Institute of Technology, Research and Management</h1>
+
+        <nav>
+            <a href="https://share.google/Ev5BsL4QnTgoi8ELn" target="_blank">
+                Visit Official Page
+            </a>
+        </nav>
+    </header>
+
+    <main>
+
+        <section>
+            <article>
+                <h2>Upcoming Football Event</h2>
+
+                <p>
+                    Our college is organizing an exciting football tournament as part of TECHNOTSAV 2026.
+                    This event will bring together talented players from different departments to compete,
+                    showcase their skills, and experience true team spirit.
+                </p>
+
+                <time>19 – 24 February 2026</time>
+
+                <p>
+                    Highlights of the event include:
+                    <mark>Inter-department matches, penalty shootouts, knockout rounds, and finals</mark>.
+                    It promises energy, competition, and unforgettable moments on the field.
+                </p>
+            </article>
+        </section>
+
+        <section>
+            <article>
+                <h2>About the Event</h2>
+
+                <p>
+                    The football tournament is designed to promote sportsmanship, discipline,
+                    and unity among students. Whether playing or supporting, everyone will
+                    experience the thrill of the game.
+                </p>
+
+                <p>
+                    All participants are required to register in advance and follow the match rules strictly.
+                </p>
+            </article>
+        </section>
+
+        <aside>
+            <p><strong>Note:</strong> Registrations are open now. Limited team slots available.</p>
+        </aside>
+
+    </main>
+
+    <footer>
+        <p>Website created on 14 February 2026</p>
+    </footer>
+
+</body>
+</html>
