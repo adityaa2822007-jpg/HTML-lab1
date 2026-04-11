@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume</title>
+</head>
+<body>
+    <main>
+
+        <section>
+            <header>
+                <h1>ABOUT ME</h1>
+                <p>Motivated Computer Science student with a strong interest in Data Analytics and problem-solving. Skilled in programming, data visualization, and building simple web applications. Passionate about learning new technologies and applying them to real-world problems.</p>
+            </header>
+        </section>
+
+        <article>
+            <h2>Computer Science Student</h2>
+            <p>
+                Pursuing B.Tech in Computer Science with specialization in Data Science at XYZ Institute of Technology.
+                <br>
+                <time>2025 – 2029</time>
+            </p>
+        </article>
+
+        <aside>
+            <h3>Experience</h3>
+            <p>Completed beginner-level projects including a personal portfolio website and data analysis using Python. Currently learning SQL and Power BI.</p>
+        </aside>
+
+        <table border="1">
+            <tr>
+                <th>Name</th>
+                <td>Rohan Sharma</td>
+            </tr>
+            <tr>
+                <th>Age</th>
+                <td>19</td>
+            </tr>
+            <tr>
+                <th>DOB</th>
+                <td>15/08/2006</td>
+            </tr>
+            <tr>
+                <th>Profession</th>
+                <td>Student</td>
+            </tr>
+            <tr>
+                <th>Marital Status</th>
+                <td>Unmarried</td>
+            </tr>
+            <tr>
+                <th>Skills</th>
+                <td>Python, SQL, C++, HTML, CSS, Data Analysis, Excel</td>
+            </tr>
+            <tr>
+                <th>Hobbies</th>
+                <td>Reading tech blogs, watching documentaries, coding practice</td>
+            </tr>
+            <tr>
+                <th>Contact</th>
+                <td>+91 9876543210</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>rohan.sharma@email.com</td>
+            </tr>
+            <tr>
+                <th>Education</th>
+                <td>12th Passed, Currently pursuing B.Tech (CSE - Data Science)</td>
+            </tr>
+        </table>
+
+        <figure>
+            <img src="https://t4.ftcdn.net/jpg/07/57/61/23/360_F_757612374_09Q9dyxOKbynCiT3hMUyk3iEuoR1RgJy.jpg" width="150">
+            <figcaption>Profile Image</figcaption>
+        </figure>
+
+    </main>
+
+    <footer>
+        <p>Contact: rohan.sharma@email.com</p>
+    </footer>
+
+</body>
+</html>
